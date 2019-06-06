@@ -1,5 +1,7 @@
 # weibo-comment
 A little tool which can be used to create comment message without weibo API.
+python 2.7.5
+Library Dependencies: requests, json
 
 weilogin.py:
 include a function:
